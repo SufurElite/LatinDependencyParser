@@ -1,3 +1,6 @@
 [submodule "diaparser-sbert"]
 	path = diaparser-sbert
 	url = https://github.com/SufurElite/diaparser-sbert
+[submodule "src/utils/latin-bert"]
+	path = src/utils/latin-bert
+	url = https://github.com/dbamman/latin-bert
