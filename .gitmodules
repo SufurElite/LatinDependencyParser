@@ -1,0 +1,3 @@
+[submodule "diaparser-sbert"]
+	path = diaparser-sbert
+	url = https://github.com/SufurElite/diaparser-sbert
